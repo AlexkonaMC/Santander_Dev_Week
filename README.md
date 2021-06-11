@@ -1,9 +1,9 @@
 # Santander_Dev_Week
-A Santander Dev Week, foi uma semana para aceleração de carreiras para devs FullStack e Mobile, com mentorias focadas nas tecnologias, Java, Angular e Kotlin, além de desenvolvimento de carreira e cultura do Santander.
+Foi uma semana para aceleração de devs FullStack e Mobile, com mentorias focadas nas tecnologias, Java, Angular e Kotlin.
 
 # Projeto
-Foi um desafio durante o evento para criar de um layout do aplicativo do Santander.
-O projeto foi feito usando o padrão arquitetural MVVM, componentes nativos do android e conceitos do Material Designer, além de contar com a integração do Firebase e a tradução para os idiomas português e inglês.
+Durante o evento foi proposto a criação de um layout do aplicativo do Santander.
+O projeto foi elaborado usando o padrão de arquitetura MVVM, com componentes nativos do android e conceitos do Material Designer, com a integração do Firebase e a tradução do português e inglês.
 
 
 
